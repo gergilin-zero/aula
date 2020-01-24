@@ -1,0 +1,18 @@
+table{
+background-color: green;
+border-color: orange;
+text-align:center;
+font-size: 30px;
+
+}
+h2{
+color: red;
+text-align: left;
+font-size: 35px;
+}
+input[type="submit"]{
+border-radius: 10px 0px 10px 0px;
+font-size: 20px;
+color: #3f51b5;
+background-color: #ffeb3b;
+}
